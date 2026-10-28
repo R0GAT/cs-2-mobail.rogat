@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Mobile",
+  "description": "Counter-Strike 2 Mobile with 3D Dust II, 5v5 Bots, Aimbot, Wallhack, Bhop, Skin Changer, Knives, Case Opening, and authentic CS2 HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
